@@ -1,9 +1,9 @@
 # Mean of Exam Scores
 
 **Let's build pivot tables**
-- **a row and column selection**:  
+- **A row and column selection**:  
 `'Class_Section', 'Exam_Version', 'Made_Own_Study_Guide', 'Did_Exam_Prep Assignment', 'Studied_In_Groups','Letter_Grade'`  
-- **a measure column selection**:  
+- **A measure column selection**:  
 `'Completion_Time','Student_Score'`  
 
 **Extra Point**:  
