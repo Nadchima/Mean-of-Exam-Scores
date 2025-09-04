@@ -8,6 +8,6 @@
 **Extra Point**:  
 &nbsp;&nbsp;&nbsp;&nbsp;Write an application that allows users to input index, columns ans values. And build the pivot table dataframe from the inputs. Use the average for the aggfunc.  
 
-**Create a UI for users to calculate the average of** `'Completion_Time' and 'Student_Score'.`
+**Create a UI for users to calculate the average of** `'Completion_Time' and 'Student_Score'.`  
 &nbsp;&nbsp;&nbsp;&nbsp;**display** → Display the data in a visually appealing way → Part of the UI  
 &nbsp;&nbsp;&nbsp;&nbsp;**interact_manual** → Create buttons/fields for users to select values → Enables the program to have a user-friendly UI
