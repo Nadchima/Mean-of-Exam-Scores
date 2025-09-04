@@ -1,6 +1,6 @@
 # Mean of Exam Scores
 
-**Let's build pivot tables**
+**Let's build pivot tables**  
 - **A row and column selection**:  
 `'Class_Section', 'Exam_Version', 'Made_Own_Study_Guide', 'Did_Exam_Prep Assignment', 'Studied_In_Groups','Letter_Grade'`  
 - **A measure column selection**:  
